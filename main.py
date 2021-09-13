@@ -1,5 +1,5 @@
 import logging
-import yaml
+import yml
 import codecs
 from database import Database
 from handler import Handler
